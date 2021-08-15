@@ -8,7 +8,7 @@
 
 Nice to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Madhusuthanan-B}.${Madhusuthanan-B})
 
-I'm a .Net full stack engineer, blogger. I'm very much inclined towards front end technologies and interested to explore various tools and arhictures. I like doing pair programming & TDD!
+I'm a .Net full stack engineer, blogger. I'm very much inclined towards front end technologies and interested to explore various tools and architectures. I like doing pair programming & TDD!
 
 #### 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
