@@ -1,5 +1,5 @@
 ### Hi, I'm Madhu 👋 
-![ROLE](https://img.shields.io/badge/SENIOR%20DEVELOPMENT%20ENGINEER-KONGSBERG%20DIGITAL-red)
+![ROLE](https://img.shields.io/badge/TECHNICAL%20ADVISOR-KONGSBERG%20DIGITAL-red)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhusuthanan-b/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/madhuddeveloper)
