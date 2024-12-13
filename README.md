@@ -28,12 +28,6 @@ I'm a .Net full stack engineer, blogger. I'm very much inclined towards front en
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
-📈 **My GitHub Stats:**
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhusuthanan-B&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusuthanan-B&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
-</p>
-
 <!--
 **Madhusuthanan-B/Madhusuthanan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
