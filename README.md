@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhusuthanan-b/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/madhuddeveloper"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" /></a>
+  <a href="https://x.com/thecompiledmind"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" /></a>
   <a href="https://madhub081011.medium.com/"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
