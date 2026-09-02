@@ -22,10 +22,6 @@
   and letting AI move fast on the rest, while the architecture, quality, and correctness calls stay mine.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhusuthanan-B&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
 ---
 
 ### Currently
@@ -139,3 +135,7 @@ Earlier in my career, I spent 4 years with Wipro, engaged on the Charles Schwab 
 ---
 
 <p align="center">Pair programming, TDD, and disciplined agentic engineering.</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Madhusuthanan-B&style=flat-square&color=blue" alt="Profile views" />
+</p>
