@@ -22,6 +22,10 @@
   and letting AI move fast on the rest, while the architecture, quality, and correctness calls stay mine.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhusuthanan-B&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 ---
 
 ### Currently
