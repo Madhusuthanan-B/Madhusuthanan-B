@@ -46,6 +46,16 @@
 - Won a hackathon with an agentic AI solution built around **human-in-the-loop** design
 - Founded and scaled a cross-product engineering community
 
+### Open Source
+
+**[Mindbase](https://github.com/Madhusuthanan-B/Mindbase)** — a lightweight, domain-agnostic personal knowledge base built on the **OKF (Op
+en Knowledge Format)** standard: one concept per markdown file, plain-text and portable, no database or server.
+
+- Agent-driven skills — `brain-setup`, `brain-capture`, `brain-query`, `brain-maintain` — let you build and query a personal knowledge base
+ through natural language, native to Claude Code and usable in any agent/chat UI
+- Doubles as an **Obsidian** vault for visual graph exploration, with folder presets for a dozen-plus professions
+- Distributed as a plain `git clone` or an installable Claude Code plugin
+
 ### Prior Work — Maritime IoT
 
 Before the shift into agentic systems, I architected and led development on high-frequency IoT data platforms for maritime vessels:
