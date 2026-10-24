@@ -58,7 +58,7 @@
 
 ### The site
 
-**[thecompiledmind.dev](https://thecompiledmind.dev)**: the full story, toolbox and the [Substrate Manifesto](https://thecompiledmind.dev/manifesto). Hand-built with no framework: plain HTML and CSS, its own small isometric renderer, light and dark themes, and an [`llms.txt`](https://thecompiledmind.dev/llms.txt) so AI agents can read it too. Deployed on Cloudflare Workers.
+**[thecompiledmind.dev](https://thecompiledmind.dev)**: the full story, toolbox and the [Substrate Manifesto](https://thecompiledmind.dev/manifesto).
 
 ### Open source
 
